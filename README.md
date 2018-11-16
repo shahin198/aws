@@ -1,5 +1,11 @@
 # aws
+```
+wget https://www.dropbox.com/s/wn03q7htjj37sxo/html.zip?dl=1
 
+sudo mv html.zip?dl=1 html.zip
+
+sudo unzip html.zip
+```
 rm abc.txt
 ```
 wget https://www.dropbox.com/s/p4ctq0e9oxm6r0w/html_template.zip?dl=1
